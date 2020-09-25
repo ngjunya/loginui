@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-
-
 class LoginEmailTemplate extends StatefulWidget {
   const LoginEmailTemplate({
     Key key,
